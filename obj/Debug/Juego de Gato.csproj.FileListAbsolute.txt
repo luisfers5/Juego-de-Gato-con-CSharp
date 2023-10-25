@@ -1,0 +1,7 @@
+C:\Users\luisf\source\repos\Juego de Gato\bin\Debug\Juego de Gato.exe.config
+C:\Users\luisf\source\repos\Juego de Gato\bin\Debug\Juego de Gato.exe
+C:\Users\luisf\source\repos\Juego de Gato\bin\Debug\Juego de Gato.pdb
+C:\Users\luisf\source\repos\Juego de Gato\obj\Debug\Juego de Gato.csproj.AssemblyReference.cache
+C:\Users\luisf\source\repos\Juego de Gato\obj\Debug\Juego de Gato.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\Juego de Gato\obj\Debug\Juego de Gato.exe
+C:\Users\luisf\source\repos\Juego de Gato\obj\Debug\Juego de Gato.pdb
